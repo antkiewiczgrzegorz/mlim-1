@@ -1,4 +1,4 @@
-# Repository for Course "Machine Learning in Marketing" (MLIM)
+# Repository for Course "Machine Learning in Marketing"
 
 ## Group 32
 
